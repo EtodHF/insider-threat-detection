@@ -1,0 +1,14 @@
+Feature,Importance
+total_files_burned,0.43269436927825633
+total_printed_pages,0.21206007295388515
+num_unique_campus,0.08389124696155896
+num_printed_pages_off_hours,0.08002520708144881
+burned_from_other,0.052289384135791574
+num_entries,0.05065153235509695
+entry_during_weekend,0.02735188323160507
+employee_seniority_years,0.024466544823564935
+hostility_country_level,0.020947361631692273
+trip_day_number,0.007162866813058159
+is_abroad,0.0054407773133013995
+is_contractor,0.0030187534207404684
+late_exit_flag,0.0
